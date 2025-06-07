@@ -20,7 +20,6 @@ Soal :
   <img src="https://github.com/user-attachments/assets/acbaa9b3-92c0-42bc-b9fd-0bec5c7b1d2d" width="600" />
 </div>
 Kode :
-```
 def f(x):
     return 3 * x**5 - 8 * x**4
 
@@ -57,4 +56,4 @@ approx, val_sebenarnya, error = riemann_error(a, b, n)
 print(f"Luas dengan Riemann (n=4): {approx:.2f}")
 print(f"Luas sebenarnya: {val_sebenarnya:.2f}")
 print(f"Error true: {error:.2f}")
-```
+
