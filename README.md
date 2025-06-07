@@ -14,35 +14,11 @@ Anggota Kelompok A13 :
 
 <h4>Penulis README = Bagus Cahya Saputra</h4>
 Tujuan : Pemenuhan Tugas Final Project Komputasi Numerik. <br>
-
 Soal : 
 <div align="left">
   <img src="https://github.com/user-attachments/assets/acbaa9b3-92c0-42bc-b9fd-0bec5c7b1d2d" width="600" />
 </div>
 Kode :
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ```python
 def f(x):
     return 3 * x**5 - 8 * x**4
