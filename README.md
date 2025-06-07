@@ -20,6 +20,7 @@ Soal :
   <img src="https://github.com/user-attachments/assets/acbaa9b3-92c0-42bc-b9fd-0bec5c7b1d2d" width="600" />
 </div>
 Kode :
+
 ```python
 def f(x):
     return 3 * x**5 - 8 * x**4
