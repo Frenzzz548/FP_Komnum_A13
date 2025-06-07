@@ -21,6 +21,7 @@ Soal :
 </div>
 Kode :
 
+
 ```python
 def f(x):
     return 3 * x**5 - 8 * x**4
