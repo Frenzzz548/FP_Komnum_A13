@@ -129,7 +129,7 @@ Luas sebenarnya: 6710476.80
 Error true: 49.14
 ```
 
-![image]((https://github.com/user-attachments/assets/98ccc293-497a-4d0a-a760-7b8451f0ea27) | width=100)
+![image](https://github.com/user-attachments/assets/98ccc293-497a-4d0a-a760-7b8451f0ea27 | width=100) 
 
 
 SEKIAN TERIMA GAJI :D
