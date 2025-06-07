@@ -58,3 +58,4 @@ print(f"Luas dengan Riemann (n=4): {approx:.2f}")
 print(f"Luas sebenarnya: {val_sebenarnya:.2f}")
 print(f"Error true: {error:.2f}")
 ```
+Penejelasan Kode :
