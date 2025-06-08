@@ -22,7 +22,7 @@ def riemann_error(a, b, n):
     error = abs((val_sebenarnya - approx)/val_sebenarnya) * 100
     return round(approx, 2), round(val_sebenarnya, 2), round(error, 2)
 
-# param
+# parameter
 a = 4 # batas bawah
 b = 16 # batas atas
 n = 4 # jumlah partisi
